@@ -1,1 +1,1 @@
-# crystals_collector
+# An interesting game called Crystals Collector
