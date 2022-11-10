@@ -15,7 +15,7 @@ var sekil4 = Math.floor(Math.random() * 5) + 4;
 var random = Math.floor(Math.random() * 50) + 20;
 
 target.innerHTML = random;
-num = 0;n
+num = 0;
 var wins1 = 0;
 var losses1 = 0;
 
